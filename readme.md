@@ -10,7 +10,7 @@
 > - 支教 
 > - 直免 教务处认可竞赛国家最高奖项可以申请直免 [通知](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=8F3C8CB48C2F5CFC)
 
-主要对2017-2019三年间的已知免研![20191127-各专业正常保研18-20届](http://cdn.simonyang.club/20191127-各专业正常保研18-20届.png)数据进行分析处理
+主要对2017-2019三年间的已知免研数据进行分析处理
 #### 学校
 ![20191127-校保研率](http://cdn.simonyang.club/20191127-校保研率.png)
 - 2020届由于峨眉的并入导致总参加排名人数增加
